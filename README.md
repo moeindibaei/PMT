@@ -16,9 +16,9 @@ The **PMT - Board** (designed by **Parsian Teb Zaman Eng. Co.**) is a specialize
 
 ## 📂 Repository Structure
 
-- 📄 `PMT_Board_Schematic.pdf` — Full Circuit Schematic Diagram
-- 📊 `PMT_Board_BOM.xlsx` — Complete Bill of Materials (Component List)
-- 🖼️ `3d_top_view.jpg` — 3D PCB Render (Top View)
+- 📄 `PMT.schematic.pdf` — Full Circuit Schematic Diagram
+- 📊 `BOM_PMT.xlsx` — Complete Bill of Materials (Component List)
+- 🖼️ `3d_top_view.png` — 3D PCB Render (Top View)
 - 🖼️ `3d_bottom_view.png` — 3D PCB Render (Bottom View)
 - 🖼️ `pcb_layout_top.png` — PCB Top Layer Copper & Silkscreen
 - 🖼️ `pcb_layout-bottom.png` — PCB Bottom Layer Copper & Silkscreen
@@ -27,7 +27,7 @@ The **PMT - Board** (designed by **Parsian Teb Zaman Eng. Co.**) is a specialize
 
 | Schematic Diagram | Bill of Materials (BOM) |
 | :--- | :--- |
-| 📄 [Download Schematic PDF](./PMT_Board_Schematic.pdf) | 📊 [View Bill of Materials (BOM)](./PMT_Board_BOM.xlsx) |
+| 📄 [Download Schematic PDF](./PMT.schematic.pdf) | 📊 [View Bill of Materials (BOM)](./BOM_PMT.xlsx) |
 
 ---
 
@@ -37,7 +37,7 @@ The **PMT - Board** (designed by **Parsian Teb Zaman Eng. Co.**) is a specialize
 
 | Top View | Bottom View |
 | :---: | :---: |
-| ![3D Top View](./3d_top_view.jpg) | ![3D Bottom View](./3d_bottom_view.png) |
+| ![3D Top View](./3d_top_view.png) | ![3D Bottom View](./3d_bottom_view.png) |
 
 ### PCB Layout Design
 
