@@ -16,7 +16,7 @@ The **PMT - Board** (designed by **Parsian Teb Zaman Eng. Co.**) is a specialize
 
 ## 📂 Repository Structure
 
-- 📄 [PMT.schematics.pdf](PMT.schematics.pdf) — Full Circuit Schematic Diagram
+- 📄 [PMT.shematic.pdf](PMT.shematic.pdf) — Full Circuit Schematic Diagram
 - 📊 [BOM_PMT.xlsx](BOM_PMT.xlsx) — Complete Bill of Materials (Component List)
 - 🖼️ [3d_top_view.png](3d_top_view.png) — 3D PCB Render (Top View)
 - 🖼️ [3d_bottom_view.png](3d_bottom_view.png) — 3D PCB Render (Bottom View)
@@ -27,7 +27,7 @@ The **PMT - Board** (designed by **Parsian Teb Zaman Eng. Co.**) is a specialize
 
 | Schematic Diagram | Bill of Materials (BOM) |
 | :--- | :--- |
-| 📄 [Download Schematic PDF](PMT.schematics.pdf) | 📊 [View Bill of Materials (BOM)](BOM_PMT.xlsx) |
+| 📄 [Download Schematic PDF](PMT.shematic.pdf) | 📊 [View Bill of Materials (BOM)](BOM_PMT.xlsx) |
 
 ---
 
