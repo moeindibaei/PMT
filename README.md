@@ -16,18 +16,19 @@ The **PMT - Board** (designed by **Parsian Teb Zaman Eng. Co.**) is a specialize
 
 ## 📂 Repository Structure
 
-- 📄 [PMT.schematic.pdf](./PMT.schematic.pdf) — Full Circuit Schematic Diagram
-- 📊 [BOM_PMT.xlsx](./BOM_PMT.xlsx) — Complete Bill of Materials (Component List)
-- 🖼️ [3d_top_view.png](./3d_top_view.png) — 3D PCB Render (Top View)
-- 🖼️ [3d_bottom_view.png](./3d_bottom_view.png) — 3D PCB Render (Bottom View)
-- 🖼️ [pcb_layout_top.png](./pcb_layout_top.png) — PCB Top Layer Copper & Silkscreen
-- 🖼️ [pcb_layout-bottom.png](./pcb_layout-bottom.png) — PCB Bottom Layer Copper & Silkscreen
+- 📄 [PMT.schematic.pdf](PMT.schematic.pdf) — Full Circuit Schematic Diagram
+- 📊 [BOM_PMT.xlsx](BOM_PMT.xlsx) — Complete Bill of Materials (Component List)
+- 🖼️ [3d_top_view.png](3d_top_view.png) — 3D PCB Render (Top View)
+- 🖼️ [3d_bottom_view.png](3d_bottom_view.png) — 3D PCB Render (Bottom View)
+- 🖼️ [pcb_layout_top.png](pcb_layout_top.png) — PCB Top Layer Copper & Silkscreen
+- 🖼️ [pcb_layout-bottom.png](pcb_layout-bottom.png) — PCB Bottom Layer Copper & Silkscreen
 
 ---
 
 | Schematic Diagram | Bill of Materials (BOM) |
 | :--- | :--- |
-| 📄 [Download Schematic PDF](PMT.schematic.pdf) | 📊 [View Bill of Materials (BOM)](BOM_PMT.xlsx) |
+| 📄 [Download Schematic PDF](https://github.com/moeindibaei/PMT/blob/main/PMT.schematic.pdf) | 📊 [View Bill of Materials (BOM)](https://github.com/moeindibaei/PMT/blob/main/BOM_PMT.xlsx) |
+
 ---
 
 ## 🖼️ Visuals
@@ -36,10 +37,10 @@ The **PMT - Board** (designed by **Parsian Teb Zaman Eng. Co.**) is a specialize
 
 | Top View | Bottom View |
 | :---: | :---: |
-| ![3D Top View](./3d_top_view.png) | ![3D Bottom View](./3d_bottom_view.png) |
+| ![3D Top View](3d_top_view.png) | ![3D Bottom View](3d_bottom_view.png) |
 
 ### PCB Layout Design
 
 | Top Layer | Bottom Layer |
 | :---: | :---: |
-| ![Top Layer](./pcb_layout_top.png) | ![Bottom Layer](./pcb_layout-bottom.png) |
+| ![Top Layer](pcb_layout_top.png) | ![Bottom Layer](pcb_layout-bottom.png) |
